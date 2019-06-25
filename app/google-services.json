@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "851966230761",
+    "firebase_url": "https://sunny-strategy-216305.firebaseio.com",
+    "project_id": "sunny-strategy-216305",
+    "storage_bucket": "sunny-strategy-216305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851966230761:android:62ebbafe0364d329",
+        "android_client_info": {
+          "package_name": "in.techware.lataxii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851966230761-eohtlc2j302005p36ua6sc211kedpp6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.techware.lataxii",
+            "certificate_hash": "1bc43fd52595ffcc8f03c7c25104a4f14953d46f"
+          }
+        },
+        {
+          "client_id": "851966230761-vc12q2jkbgr1tdiihmuhan78oddsfad0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEN4P-efkujnSYOQfuiX-WvlLl_pZ-sCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851966230761-vc12q2jkbgr1tdiihmuhan78oddsfad0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
